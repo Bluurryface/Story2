@@ -1,1 +1,1 @@
-Testing merge 
+Testing merge and how to use GitHub.
